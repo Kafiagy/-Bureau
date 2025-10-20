@@ -6,7 +6,7 @@
     <description>Dernières actualités du site MERN Djibouti</description>
     <item>
       <title>Article 1</title>
-      <link>https://www.mern.dj/index.php/component/content/article?id=278&ampd=437</link>
+      <link>https://www.mern.dj/index.php/component/content/article?id=278&ampd;Itemid=437</link>
       <description>Résumé de l'article 1</description>
       <guid>https://www.mern.dj/article1</guid>
     </item>
