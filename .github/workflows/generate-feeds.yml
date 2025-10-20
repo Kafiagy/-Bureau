@@ -25,7 +25,7 @@ jobs:
 
       - name: Generate feeds
         run: npx feed-me-up-scotty
-
+        working-directory: .
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
