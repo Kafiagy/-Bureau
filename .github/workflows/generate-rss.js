@@ -1,5 +1,3 @@
-npm init -y
-npm install axios cheerio
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
@@ -45,8 +43,4 @@ axios.get(url)
     fs.writeFileSync('rss.xml', rss);
     console.log('Flux RSS généré avec succès : rss.xml');
   })
-  .catch(error => {
-node generate-rss.js
-
-    console.error('Erreur lors de la récupération du site :', error);
-  });
+ 
