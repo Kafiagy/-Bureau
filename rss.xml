@@ -6,13 +6,13 @@
     <description>Dernières actualités du site MERN Djibouti</description>
     <item>
       <title>Article 1</title>
-      <link>https://www.mern.dj/article1</link>
+      <link>https://www.mern.dj/index.php/component/content/article?id=278&Itemid=437</link>
       <description>Résumé de l'article 1</description>
       <guid>https://www.mern.dj/article1</guid>
     </item>
     <item>
       <title>Article 2</title>
-      <link>https://www.mern.dj/article2</link>
+      <link>https://www.mern.dj/index.php/component/content/article/19-joomla/277-delegation-de-la-societe-ginger-sofreco-peeb?Itemid=437</link>
       <description>Résumé de l'article 2</description>
       <guid>https://www.mern.dj/article2</guid>
     </item>
