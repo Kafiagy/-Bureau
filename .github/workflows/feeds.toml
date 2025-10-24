@@ -1,0 +1,5 @@
+title = "MERN Djibouti — Actualités"
+url = "https://www.mern.dj/"
+entrySelector = ".page-content"
+titleSelector = "h1"
+linkSelector = "h1 p"
